@@ -195,3 +195,130 @@ TERCEIRO FORMULÁRIO
     <input type="checkbox" name="veiculo2" value="carro">Outro<br>
     
 </form>
+
+QUARTO FORMULÁRIO 
+
+<!DOCTYPE html>
+<html>
+<head>
+      <title>Page Title</title>
+</head>
+<body>
+
+   <p> 21/082022 Prova </p>
+   <h1> Prova de Conhecimento Geral </h1>
+   <p1>Responda todas as questões, utilize rascunhos em papel para realizar os cálculos.Os rascunhos serão recolhidos pelo professor ápos a quarentena.<br>
+<br>
+   <fieldset>
+
+<legend> Informação do Aluno</legend>
+    <form>
+    <br> Digite o seu Nome:<input type="text" class="full" id="nome" name="nome" placeholder="nome do aluno">
+ 
+<br>
+ 
+    <br> Número pessoas no grupo:<input type="text" class="full" id="nome" name="nome" placeholder="nª">
+ 
+<br>
+
+    <br> Digite o seu email:<input type="text" class="full" id="nome" name="nome" placeholder="email">
+ 
+<br>
+
+    <br>Data de nascimento:<input type="text" class="full" id="nome" name="nome" placeholder="dd/mm/aaaa">
+
+<br>
+
+    <br>Digite a senha para acessar os dados da pesquisa posteriormente:<input type="text" class="full" id="nome" name="nome" placeholder="Digite a Senha">
+     
+     </fieldset>
+
+     <fieldset>
+
+<legend> Matematica</legend>
+
+<h3> <n>Local de Entrega</n> </h3>
+<ol>
+3 + 3 = <input type="text" class="full" id="nome" name="nome" placeholder="">
+
+<br>
+
+    <br> 10 / 3 = <input type="text" class="full" id="nome" name="nome" placeholder="">
+
+<br>
+
+    <br> 5 * 2 = <input type="text" class="full" id="nome" name="nome" placeholder=""></li>
+
+<br>
+
+<form>
+    Essa Tarefa foi dificil:<br>
+    facil
+    <input type="range" name="satisfacao" min="0" max="10">
+    dificil
+</form>
+
+    </fieldset>
+
+</ol>
+
+    <fieldset>
+
+<legend> Opinião quanto a utilização</legend>
+
+    <img
+    src="https://fundacaotelefonicavivo.org.br/wp-content/uploads/2021/05/lingua-portuguesa-1200px-facebook.jpg" alt="image" height="200" width="400"
+
+<br>
+
+    <br> Na frase: "Eu sou bonito" o sujeito é:
+
+<br>
+
+    <form>
+    <input type="radio" name="veiculo1" value="bicicleta">Brand pitt<br>
+    <input type="radio" name="veiculo2" value="carro">João da padaria<br>
+    <input type="radio" name="veiculo3" value="moto">Você mesmo <br>
+    <input type="radio" name="veiculo3" value="moto">Meus pais <br>
+    <input type="radio" name="veiculo3" value="moto">Eu <br>
+    </form>
+
+<br>
+
+    <br> Complete a frase: "Filho de peixe, peixinho ____" <br>
+
+  <form>
+    <input type="checkbox" name="veiculo2" value="carro">É<br>
+    <input type="checkbox" name="veiculo3" value="moto">Tem <br>
+    <input type="checkbox" name="veiculo2" value="carro">Verde<br>
+    <input type="checkbox" name="veiculo2" value="carro">Bonito<br>
+    <input type="checkbox" name="veiculo2" value="carro">Maria<br>
+  </form>
+
+  </form>
+    <fieldset>
+
+<legend> Dê uma nota para o seu professor:</legend>
+    <br> professor explica bem a matéria?<br>
+  <form>
+    Dê 0 a 10: <input type="number" name="quantidade" min="0" max="10">
+     <input type="range" name="satisfacao" min="0" max="10">
+ 
+  </form>
+    </fieldset>
+
+    <fieldset>
+
+    <legend>Opiniões:</legend>
+    <br> Digite sua opinião sobre a discliplina:<br>
+<br>
+<textarea name="message" rows="7" cols="30"></textarea><br>
+<input type="submit" value="Enviar"/>
+  </form>
+    </fieldset>
+
+<br>
+
+<input type="submit" value="Gravar resposta"/>
+</body>
+</
